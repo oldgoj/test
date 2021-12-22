@@ -4,7 +4,8 @@ using namescape std;
 
 int main ()
 {
-    cout << "Hello world" << end;
+    cout << "Hello world" << endl;
+    cout << "aaa" << endl;
     return 0;
 }
 
